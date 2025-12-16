@@ -1,2 +1,3 @@
 figma/locales/pl/translation.json
 figma/locales/hu/translation.json
+figma/locales/de/translation.json
