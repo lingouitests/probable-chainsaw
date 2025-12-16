@@ -4,6 +4,11 @@
   "nodeID":"node_id.202:5",
   "lastChanged":1765879924
 },{
+  "key":"tuesday_12",
+  "value":"tuesday",
+  "nodeID":"node_id.126:4",
+  "lastChanged":1765880006
+},{
   "key":"three_9",
   "value":"three",
   "nodeID":"node_id.118:11",
@@ -23,6 +28,11 @@
   "value":"two",
   "nodeID":"node_id.118:10",
   "lastChanged":1765879989
+},{
+  "key":"monday_11",
+  "value":"monday",
+  "nodeID":"node_id.125:3",
+  "lastChanged":1765880006
 },{
   "key":"nineinch_1",
   "value":"nine inch nails",
